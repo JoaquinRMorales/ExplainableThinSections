@@ -15,6 +15,8 @@
 <sup>2</sup>Instituto de Acústica, Laboratorio de Minería de Datos y Audio (AuMiLab), Facultad de Ciencias de la Ingeniería, Universidad Austral de Chile, Valdivia, 5111187, Chile\
 <sup>3</sup>Facultad de Ingeniería y Ciencias, Universidad Diego Portales, Santiago, 8370109, Chile.<p>
 
+## Nature - Scientific Reports
+
 This repository contains the code associated with the paper **"Visual Analysis of Deep Learning Semantic Segmentation Applied to Petrographic Thin Sections"**, submitted to Scientific Reports as part of the [Explainability Methods for Deep Learning Neural Networks](https://www.nature.com/collections/fhaihhjaej) collection.
 
 ## References
