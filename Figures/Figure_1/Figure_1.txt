@@ -1,0 +1,7 @@
+Figure 1 presents a composite visualization consisting of three cropped sections from different images. 
+These sections were specifically selected as they clearly highlight the chosen mineral in each image.
+
+Images used:
+	- Andalusite	: 051-_jpg.rf.3ab3c799a5d7d69b156a28720692fc8b.jpg
+	- Biotite	: 106-_jpg.rf.a9ba934069c2e336b53f7c984407ca2b.jpg
+	- Ooid		: 016-_jpg.rf.f7aca721a49e43b7d321d926f3ea41b6.jpg
