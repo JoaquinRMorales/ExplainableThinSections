@@ -16,8 +16,11 @@
 <sup>3</sup>Facultad de Ingeniería y Ciencias, Universidad Diego Portales, Santiago, 8370109, Chile.<p>
 
 ## Nature - Scientific Reports
-
 This repository contains the code associated with the paper **"Visual Analysis of Deep Learning Semantic Segmentation Applied to Petrographic Thin Sections"**, submitted to Scientific Reports as part of the [Explainability Methods for Deep Learning Neural Networks](https://www.nature.com/collections/fhaihhjaej) collection.
 
 ## References
 - Zhu, S. S. et al. (2020). Micro image data set of some rock forming minerals, typical metamorphic minerals and oolitic thin sections. *Science Data Bank*. DOI: [10.11922/sciencedb.j00001.00014](https://doi.org/10.11922/sciencedb.j00001.00014)
+- Jocher, Qiu, J. & Chaurasia, A. (2024). Ultralytics YOLO. [Ultralytics Github](https://github.com/ultralytics/ultralytics).
+
+## Acknowledgements
+This research was supported by the [Patagón supercomputer of Universidad Austral de Chile](https://patagon.uach.cl) (FONDEQUIP EQM180042).
